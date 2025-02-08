@@ -3,8 +3,8 @@ package calendarTests;
 public class ToBookDate {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 
+		System.out.println("Ive written calendar test scripts as well");
 	}
 
 }
